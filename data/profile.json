@@ -1,0 +1,149 @@
+{
+  "personalInfo": {
+    "name": "Tu Nombre",
+    "title": "Modelo Internacional | Reina de Belleza | Empresaria",
+    "subtitle": "Embajadora de la Belleza y la Elegancia",
+    "description": "Soy una modelo profesional, competidora en certámenes de belleza internacionales y empresaria apasionada por el mundo de la moda y la belleza. Mi misión es inspirar a otras mujeres a creer en sí mismas y alcanzar sus sueños.",
+    "email": "contacto@tunombre.com",
+    "phone": "+123 456 7890",
+    "location": "Ciudad, País"
+  },
+  "socialMedia": {
+    "instagram": "https://instagram.com/tuusuario",
+    "facebook": "https://facebook.com/tuusuario",
+    "twitter": "https://twitter.com/tuusuario",
+    "tiktok": "https://tiktok.com/@tuusuario",
+    "youtube": "https://youtube.com/@tuusuario",
+    "linkedin": "https://linkedin.com/in/tuusuario"
+  },
+  "achievements": [
+    {
+      "year": 2024,
+      "title": "Miss Universo Nacional",
+      "description": "Representante oficial del país en Miss Universo 2024",
+      "icon": "👑"
+    },
+    {
+      "year": 2023,
+      "title": "Miss Internacional",
+      "description": "Top 5 Finalista en el certamen internacional",
+      "icon": "🏆"
+    },
+    {
+      "year": 2023,
+      "title": "Mejor Sonrisa",
+      "description": "Premio especial a la mejor sonrisa en certamen nacional",
+      "icon": "✨"
+    },
+    {
+      "year": 2022,
+      "title": "Embajadora de la Belleza",
+      "description": "Nombrada embajadora oficial de campañas de belleza y autoestima",
+      "icon": "💖"
+    }
+  ],
+  "businesses": [
+    {
+      "name": "Centro de Belleza [Tu Marca]",
+      "description": "Servicios exclusivos de cuidado personal, tratamientos faciales, maquillaje profesional y asesoría de imagen.",
+      "services": ["Tratamientos Faciales", "Maquillaje Profesional", "Asesoría de Imagen", "Spa & Relax"],
+      "image": "https://images.unsplash.com/photo-1560750588-73207b1ef5b8?w=800&q=80",
+      "link": "#centro-belleza"
+    },
+    {
+      "name": "Agencia de Modelaje [Tu Marca]",
+      "description": "Descubrimos y desarrollamos nuevos talentos, ofreciendo oportunidades en el mundo de la moda y los certámenes.",
+      "services": ["Representación de Modelos", "Producción de Fotoshoots", "Preparación para Certámenes", "Booking de Eventos"],
+      "image": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800&q=80",
+      "link": "#agencia-modelaje"
+    },
+    {
+      "name": "Línea de Cosméticos [Tu Marca]",
+      "description": "Productos de belleza de alta calidad diseñados para resaltar la belleza natural de cada mujer.",
+      "services": ["Maquillaje", "Cuidado de la Piel", "Fragancias", "Accesorios de Belleza"],
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdd403cc2?w=800&q=80",
+      "link": "#cosmeticos"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Sesión Editorial",
+      "category": "Editorial",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=800&q=80"
+    },
+    {
+      "title": "Certamen Nacional",
+      "category": "Certamen",
+      "image": "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=800&q=80"
+    },
+    {
+      "title": "Campaña Publicitaria",
+      "category": "Publicidad",
+      "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800&q=80"
+    },
+    {
+      "title": "Pasarela Fashion Week",
+      "category": "Pasarela",
+      "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800&q=80"
+    },
+    {
+      "title": "Sesión de Belleza",
+      "category": "Belleza",
+      "image": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800&q=80"
+    },
+    {
+      "title": "Evento Especial",
+      "category": "Eventos",
+      "image": "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?w=800&q=80"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "María González",
+      "role": "Directora de Certamen",
+      "text": "Una competidora excepcional con una belleza interior que refleja en su exterior. Su dedicación y profesionalismo son inspiradores."
+    },
+    {
+      "name": "Carlos Rodríguez",
+      "role": "Fotógrafo de Moda",
+      "text": "Trabajar con ella es un privilegio. Su presencia frente a la cámara es incomparable y siempre aporta ideas creativas."
+    },
+    {
+      "name": "Ana Martínez",
+      "role": "Cliente del Centro de Belleza",
+      "text": "El mejor centro de belleza que he visitado. Los tratamientos son excepcionales y el ambiente es relajante y lujoso."
+    }
+  ],
+  "philosophy": {
+    "quote": "La verdadera belleza viene de dentro y se refleja en cada acción que realizamos con amor y dedicación.",
+    "values": [
+      {
+        "icon": "💎",
+        "title": "Excelencia",
+        "description": "Buscamos la perfección en cada detalle"
+      },
+      {
+        "icon": "❤️",
+        "title": "Pasión",
+        "description": "Amamos lo que hacemos y lo transmitimos"
+      },
+      {
+        "icon": "🌟",
+        "title": "Inspiración",
+        "description": "Motivamos a otros a ser su mejor versión"
+      },
+      {
+        "icon": "🤝",
+        "title": "Compromiso",
+        "description": "Dedicados al éxito de nuestros clientes"
+      }
+    ]
+  },
+  "contact": {
+    "bookingEmail": "bookings@tunombre.com",
+    "businessEmail": "negocios@tunombre.com",
+    "pressEmail": "prensa@tunombre.com",
+    "address": "Dirección de tu oficina o centro de belleza",
+    "availability": "Disponible para eventos, campañas y colaboraciones"
+  }
+}
